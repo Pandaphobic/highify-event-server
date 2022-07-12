@@ -1,0 +1,16 @@
+{
+  "name": "highify-event-server",
+  "version": "1.0.0",
+  "description": "Highify.on server",
+  "main": "index.js",
+  "author": "Pandaphobic / Tritonn204",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.6.9",
+    "node-fetch": "^3.2.7"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node index"
+  }
+}
